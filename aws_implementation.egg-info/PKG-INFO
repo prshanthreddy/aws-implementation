@@ -18,6 +18,8 @@ Requires-Dist: seaborn
 Requires-Dist: catboost
 Requires-Dist: xgboost
 Requires-Dist: dill
+Requires-Dist: flask
+Requires-Dist: streamlit
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier

@@ -24,3 +24,19 @@
 2025-06-11 10:39:13 - root - INFO - Saved preprocessing object.
 2025-06-11 10:39:13 - root - INFO - Split training and test input data
 2025-06-11 10:39:46 - root - INFO - Best found model on both training and testing dataset
+2025-06-11 10:59:41 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.200:5000
+2025-06-11 10:59:41 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 10:59:45 - root - INFO - artifacts/proprocessor.pkl
+2025-06-11 10:59:45 - root - INFO - Before Loading
+2025-06-11 10:59:45 - root - INFO - After Loading
+2025-06-11 10:59:45 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 10:59:45] "POST /predictdata HTTP/1.1" 200 -
+2025-06-11 11:00:05 - root - INFO - artifacts/proprocessor.pkl
+2025-06-11 11:00:05 - root - INFO - Before Loading
+2025-06-11 11:00:05 - root - INFO - After Loading
+2025-06-11 11:00:05 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:00:05] "POST /predictdata HTTP/1.1" 200 -
+2025-06-11 11:02:17 - root - INFO - artifacts/proprocessor.pkl
+2025-06-11 11:02:17 - root - INFO - Before Loading
+2025-06-11 11:02:17 - root - INFO - After Loading
