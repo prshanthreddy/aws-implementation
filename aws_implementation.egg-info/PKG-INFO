@@ -17,6 +17,7 @@ Requires-Dist: matplotlib
 Requires-Dist: seaborn
 Requires-Dist: catboost
 Requires-Dist: xgboost
+Requires-Dist: dill
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier
